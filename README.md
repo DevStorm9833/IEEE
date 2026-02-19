@@ -6,13 +6,13 @@ Navbar[ Home Events Team LeaderBoard Resources]
 
 
 ## [Home](https://ieee.dbit.in/)
-- CSI & ACM have written in Home page, they both are the LARGEST CHAPTERS in DBIT. 🤣
+- CSI & ACM have written in Home page, they both are the `Largest Student Chapters in DBIT`. 🤣
 - In Mobile View, Home page looks like Laptop View, Logo is stelretched. Pls Fix it, it looks wierd.
 - Navbar should be shown & it should stick even when we scroll. Logo should fit inside Navbar. 
 - When we hover on the Navbar Links, it should change color.
 - Instead of showing just DBIT photo, we can show a series of few good event photos. Ref [MTT-S](https://mtt.org/), [IEEE Vesit](https://www.ieeevesit.org/)
 - And due to the bright bg photo, IEEE DBIT logo isnt that visible. Ref [CSI DBIT](https://csi.dbit.in/)
-- Impactful No.s can be shown in the Blue Strip. Ref [CSI DBIT](https://csi.dbit.in/), [ACM DBIT](https://dbit.acm.org/)
+- Impactful No.s can be shown in the Blue Strip. Show `Join IEEE` button slightly above. Ref [CSI DBIT](https://csi.dbit.in/), [ACM DBIT](https://dbit.acm.org/)
 - Instead of giving a separate page for About Us we can show it in Home Page.
 - Vision Mission Values instead of a simple About Us. Ref [CSI DBIT](https://csi.dbit.in/)
 - In the 5 branches, it looks like just icons. Instead make it look like clickable Cards.
