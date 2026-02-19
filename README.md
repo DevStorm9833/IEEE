@@ -7,6 +7,7 @@ Navbar[ Home Events Team LeaderBoard Resources]
 
 ## [Home](https://ieee.dbit.in/)
 - CSI & ACM have written in Home page, they both are the LARGEST CHAPTERS in DBIT. 🤣
+- In Mobile View, Home page looks like Laptop View, Logo is stelretched. Pls Fix it, it looks wierd.
 - Navbar should be shown & it should stick even when we scroll. Logo should fit inside Navbar. 
 - When we hover on the Navbar Links, it should change color.
 - Instead of showing just DBIT photo, we can show a series of few good event photos. Ref [IEEE Vesit](https://www.ieeevesit.org/)
