@@ -2,6 +2,9 @@
 
 Navbar[ Home Events Team LeaderBoard Resources]
 
+👉 Navigation reqd in [2025 Events](https://ieee.dbit.in/2025.html), 2024 etc and all the events under it. [2024 Team](https://ieee.dbit.in/Previous-teams/2024-team.html), 2023, etc
+
+
 ## [Home](https://ieee.dbit.in/)
 - CSI & ACM have written in Home page, they both are the LARGEST CHAPTERS in DBIT. 🤣
 - Navbar should be shown & it should stick even when we scroll. Logo should fit inside Navbar. 
@@ -24,7 +27,6 @@ Navbar[ Home Events Team LeaderBoard Resources]
 - We can show a Leaderboard of Students earning points due to participation & winning in Events. Ref [CSI DBIT](https://csi.dbit.in/csi-leaderBoard.html)
 
 
-- Navigation reqd in [2025 Events](https://ieee.dbit.in/2025.html), 2024 etc and all the events under it. [2024 Team](https://ieee.dbit.in/Previous-teams/2024-team.html), 2023, etc
 
 ---
 
