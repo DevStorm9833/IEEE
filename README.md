@@ -3,6 +3,7 @@
 ## Home 
 - CSI & ACM have written in Home page, they both are the LARGEST CHAPTERS in DBIT. 🤣
 - Navbar should be shown & it should stick even when we scroll. Logo should fit inside Navbar.
+- Navigation in 
 - Instead of showing just DBIT photo, we can show a series of few good event photos. Ref [IEEE Vesit](https://www.ieeevesit.org/)
 - Impactful No.s can be shown in the Blue Strip. Ref [CSI DBIT](https://csi.dbit.in/)
 - Instead of giving a separate page for About Us we can show it in Home Page.
