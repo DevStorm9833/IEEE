@@ -10,11 +10,12 @@ Navbar[ Home Events Team LeaderBoard Resources]
 - In Mobile View, Home page looks like Laptop View, Logo is stelretched. Pls Fix it, it looks wierd.
 - Navbar should be shown & it should stick even when we scroll. Logo should fit inside Navbar. 
 - When we hover on the Navbar Links, it should change color.
-- Instead of showing just DBIT photo, we can show a series of few good event photos. Ref [IEEE Vesit](https://www.ieeevesit.org/)
+- Instead of showing just DBIT photo, we can show a series of few good event photos. Ref [MTT-S](https://mtt.org/), [IEEE Vesit](https://www.ieeevesit.org/)
 - And due to the bright bg photo, IEEE DBIT logo isnt that visible. Ref [CSI DBIT](https://csi.dbit.in/)
 - Impactful No.s can be shown in the Blue Strip. Ref [CSI DBIT](https://csi.dbit.in/), [ACM DBIT](https://dbit.acm.org/)
 - Instead of giving a separate page for About Us we can show it in Home Page.
 - Vision Mission Values instead of a simple About Us. Ref [CSI DBIT](https://csi.dbit.in/)
+- In the 5 branches, it looks like just icons. Instead make it look like clickable Cards.
 - What we do? Ref [GDGC DBIT](https://gdgc.dbit.in/)
 - Instead of Yearly Events, we should show our Recent & Upcoming Events and a Poster img along with the Event Name, Date in Home page. Ref [CSI DBIT](https://csi.dbit.in/index.html)
 - Why Join IEEE DBIT? Eg. - Career exposure, Hands-on learning, Leadership & teamwork, Research & global connect as we showed in Intro ppt.
