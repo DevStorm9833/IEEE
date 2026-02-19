@@ -1,8 +1,10 @@
 # IEEE DBIT Website
 
+Navbar[ Home Events Team LeaderBoard Resources]
+
 ## [Home](https://ieee.dbit.in/)
 - CSI & ACM have written in Home page, they both are the LARGEST CHAPTERS in DBIT. 🤣
-- Navbar should be shown & it should stick even when we scroll. Logo should fit inside Navbar. Navbar[ Home Events Team LeaderBoard Resources]
+- Navbar should be shown & it should stick even when we scroll. Logo should fit inside Navbar. 
 - When we hover on the Navbar Links, it should change color.
 - Instead of showing just DBIT photo, we can show a series of few good event photos. Ref [IEEE Vesit](https://www.ieeevesit.org/)
 - And due to the bright bg photo, IEEE DBIT logo isnt that visible. Ref [CSI DBIT](https://csi.dbit.in/)
