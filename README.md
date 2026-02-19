@@ -13,20 +13,21 @@
 - Instead of Yearly Events, we should show our Recent & Upcoming Events and a Poster img along with the Event Name, Date in Home page. Ref [CSI DBIT](https://csi.dbit.in/index.html)
 
 ## Events
-- Under Each Year we should show a Poster img along with the Event Name, Date. Inside it 5-6 Event images, Report
+- Under Each Year we should show a Poster img along with the Event Name, Date. Inside it 5-6 Event images, Report. Ref [CSI DBIT](https://csi.dbit.in/events.html)
 
 ## Team
+- Above the Current Core Team, we can give links to Previous Teams, instead of separate page. Ref [GDGC DBIT](https://gdgc.dbit.in/#/team)
 
-- After the Current Core Team, we can give links to Previous Teams, instead of separate page. Ref [GDGC DBIT](https://gdgc.dbit.in/#/team)
+## LeaderBoard
+- We can show a Leaderboard of Students earning points due to participation & winning in Events. Ref [CSI DBIT](https://csi.dbit.in/csi-leaderBoard.html)
 
 
-- 
+- Navigation reqd in [2025 Events](https://ieee.dbit.in/2025.html), 2024 etc and all the events under it. [2024 Team](https://ieee.dbit.in/Previous-teams/2024-team.html), 2023, etc
 
-- Navigation reqd in [2025 Events](https://ieee.dbit.in/2025.html), 2024 etc and all the events under it. [2024 Team](https://ieee.dbit.in/Previous-teams/2024-team.html), 2023, etc 
 ---
 
 ### Suggestions:
 - IEEE DBIT can publish Tech Articles/Blogs in Medium. Ref [IEEE SPIT](https://ieee.spit.ac.in/)
-- The Fast moving lines feel wierd. Instead we can put something 
+- The Fast moving lines feel wierd. Instead we can put something like dots moving towards us.
 - In Events section we should also show Winners of that Event if any.
 - We can show a Leaderboard of Students earning points due to participation & winning in Events. Ref [CSI DBIT](https://csi.dbit.in/csi-leaderBoard.html)
