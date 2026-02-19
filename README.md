@@ -17,6 +17,7 @@ Navbar[ Home Events Team LeaderBoard Resources]
 - Vision Mission Values instead of a simple About Us. Ref [CSI DBIT](https://csi.dbit.in/)
 - What we do? Ref [GDGC DBIT](https://gdgc.dbit.in/)
 - Instead of Yearly Events, we should show our Recent & Upcoming Events and a Poster img along with the Event Name, Date in Home page. Ref [CSI DBIT](https://csi.dbit.in/index.html)
+- Why Join IEEE DBIT? Eg. - Career exposure, Hands-on learning, Leadership & teamwork, Research & global connect as we showed in Intro ppt.
 
 ## Events
 - Under Each Year we should show a Poster img along with the Event Name, Date. Inside it 5-6 Event images, Report. Ref [CSI DBIT](https://csi.dbit.in/events.html)
