@@ -27,6 +27,8 @@ Navbar[ Home Events Team LeaderBoard Resources]
 - We can show a Leaderboard of Students earning points due to participation & winning in Events. Ref [CSI DBIT](https://csi.dbit.in/csi-leaderBoard.html)
 
 
+## Resources 
+- We can show the Basics of Open Source, GitHub, etc and the YouTube links to Recorded Free Courses if any. Eg. SLM
 
 ---
 
