@@ -11,9 +11,9 @@ Navbar[ Home Events Team LeaderBoard Resources]
 - When we hover on the Navbar Links, it should change color.
 - Instead of showing just DBIT photo, we can show a series of few good event photos. Ref [IEEE Vesit](https://www.ieeevesit.org/)
 - And due to the bright bg photo, IEEE DBIT logo isnt that visible. Ref [CSI DBIT](https://csi.dbit.in/)
-- Impactful No.s can be shown in the Blue Strip. Ref [CSI DBIT](https://csi.dbit.in/)
+- Impactful No.s can be shown in the Blue Strip. Ref [CSI DBIT](https://csi.dbit.in/), [ACM DBIT](https://dbit.acm.org/)
 - Instead of giving a separate page for About Us we can show it in Home Page.
-- Vision Mission Values instead of a simple About Us. Ref [CSI DBIT] 
+- Vision Mission Values instead of a simple About Us. Ref [CSI DBIT](https://csi.dbit.in/)
 - What we do? Ref [GDGC DBIT](https://gdgc.dbit.in/)
 - Instead of Yearly Events, we should show our Recent & Upcoming Events and a Poster img along with the Event Name, Date in Home page. Ref [CSI DBIT](https://csi.dbit.in/index.html)
 
